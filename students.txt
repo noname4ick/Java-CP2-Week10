@@ -1,0 +1,5 @@
+Ali Karimov 3.85 ComputerScience
+Sara Ahmed 3.90 Mathematics
+Nematov Biloliddin 3.0 Physics
+Diyorbek Sobirovich 3.75 ComputerProgramming2
+Someone Someonelse 3.20 ACS
